@@ -7,6 +7,12 @@ Team ByteForce built an autonomous, real-time rocket ground station on a physica
 The system was developed incrementally from **Level 0 to Level 5**, with mathematical derivation, embedded implementation, hardware measurement, numerical-stability checks, and verification against both the Official Tracker and Practice Tracker B.
 
 ---
+👥 Team ByteForce
+Member	Role
+Chaithra Gana G	Skeptic and Code Integrate
+Sindhu GV	Builder
+Samudra Kar	Measurer
+Brunda	Scribe
 
 ## 🛰️ Project Overview
 
@@ -414,16 +420,6 @@ The final firmware was tested on:
 | Official Tracker | ✅ |
 | Practice Tracker B | ✅ |
 
-
-
-# 👥 Team ByteForce
-
-| Member | Role |
-|---|---|
-| **Chaithra Gana G** | Skeptic and Code Integrate |
-| **Sindhu GV** | Builder |
-| **Samudra Kar** | Measurer |
-| **Brunda** | Scribe |
 
 The development process followed a closed-loop workflow:
 
