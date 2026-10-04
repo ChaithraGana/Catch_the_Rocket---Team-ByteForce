@@ -466,7 +466,6 @@ The firmware was verified on both the Official Tracker and a substantially diffe
 
 This project demonstrates how **mathematical modeling, numerical analysis, memory-aware data structures, signal filtering, and embedded optimization** can turn a 100,000-sample telemetry stream into a complete flight-analysis system on a resource-constrained ESP32.
 
-> **Store the information extracted from the data — not the data itself.**
 
 ---
 
