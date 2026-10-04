@@ -414,33 +414,7 @@ The final firmware was tested on:
 | Official Tracker | ✅ |
 | Practice Tracker B | ✅ |
 
----
 
-# 📂 Repository Structure
-
-```text
-Team-ByteForce/
-│
-├── Project/
-│   ├── LEVEL_0_FINAL.ino
-│   ├── LEVEL_1_OFFICIAL.ino
-│   ├── LEVEL__1_PRACTICE.ino
-│   ├── LEVEL_2_OFFICIAL.ino
-│   ├── level2_practice.ino
-│   ├── LEVEL_3_OFFICIAL.ino
-│   ├── LEVEL_3_PRACTICE.ino
-│   ├── LEVEL_4_OFFICIAL.ino
-│   ├── LEVEL_4_PRACTICE.ino
-│   ├── LEVEL_5_OFFICIAL.ino
-│   ├── LEVEL_5_PRACTICE.ino
-│   └── outputs.docx
-│
-├── README.md
-└── FinalReport/
-    └── FinalReport_FCA_TeamByteForce.pdf
-```
-
----
 
 # 👥 Team ByteForce
 
